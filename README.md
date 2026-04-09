@@ -136,6 +136,6 @@ The developers assume no responsibility for misuse or damage.
 
 ---
 
-## 💚 Developed for the Security Community
+## 💚 Developed for the Security Community.
 
 Built for bug bounty hunters, red teamers, and offensive security researchers.
