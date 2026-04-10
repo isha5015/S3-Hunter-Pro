@@ -118,9 +118,9 @@ Track responses via live terminal logs and radar visualization
 
 **Exploitation Phase:**
 
-* Identify public buckets
-* Extract sensitive data
-* Detect takeover vectors
+* Identify public buckets.
+* Extract sensitive data.
+* Detect takeover vectors.
 
 **Deep Dive:**
 Use Bucket Explorer to enumerate objects and analyze exposed files
